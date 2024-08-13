@@ -1,14 +1,19 @@
 <h1 align="center">Hi there, I'm Sushma Kommineni👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coading" width="400" src="https://clipartspub.com/images/coding-clipart-person-6.jpg"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmakommineni&label=Profile%20views&color=0e75b6&style=flat" alt="sushmakommineni" /> </p>
 
+<p>I am a passionate Frontend Developer with over 2 years of experience in creating dynamic and responsive web applications. My expertise includes HTML, CSS, JavaScript, and modern frameworks like Bootstrap and Laravel. I have a strong background in designing and developing user-friendly interfaces and am dedicated to continuous learning and staying updated with the latest technologies.</p>
+
+<img align="right" alt="Coading" width="400" src="https://clipartspub.com/images/coding-clipart-person-6.jpg">
+
+
 - 🔭 I’m currently working on **Blue apple**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **nagasushma999@gmail.com**
+- 📫 How to reach me **nagasushma999@gmail.com;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
