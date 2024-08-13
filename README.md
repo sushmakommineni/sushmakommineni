@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushma Kommineni</h1>
+<h1 align="center">Hi there, I'm Sushma Kommineni👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coading" width="400" src="https://clipartspub.com/images/coding-clipart-person-6.jpg"
 
